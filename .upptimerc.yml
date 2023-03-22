@@ -14,7 +14,7 @@ status-website:
   cname: status.streamonaire.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/streamonaire/upptime-status-reports/master/assets/streamonaire-logo.svg
-  name: Upptime
+  name: Streamonaire
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is the official status page for Streamonaire. Note it is a work in progress, and may change at any time.
   navbar:
