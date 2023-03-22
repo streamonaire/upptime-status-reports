@@ -5,8 +5,13 @@ repo: upptime-status-reports # The name of this repository
 sites:
   - name: Main Site
     url: https://streamonaire.com
+    maxResponseTime: 1500
   - name: Beta Site
     url: https://beta.streamonaire.com
+    maxResponseTime: 1500
+
+assignees:
+  - elijahcruz12
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,8 +23,6 @@ status-website:
   introTitle: "**Streamonaire** is a trivia game, made entirely for streamers."
   introMessage: This is the official status page for Streamonaire. Note it is a work in progress, and may change at any time.
   navbar:
-    - title: Status
-      href: /
     - title: Streamonaire
       href: https://streamonaire.com
     - title: Beta
@@ -27,3 +30,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
