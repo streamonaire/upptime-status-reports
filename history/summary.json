@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Main Site",
+    "url": "https://streamonaire.com",
+    "icon": "https://icons.duckduckgo.com/ip3/streamonaire.com.ico",
+    "slug": "main-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 304,
+    "timeDay": 304,
+    "timeWeek": 304,
+    "timeMonth": 304,
+    "timeYear": 304,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Beta Site",
+    "url": "https://beta.streamonaire.com",
+    "icon": "https://icons.duckduckgo.com/ip3/beta.streamonaire.com.ico",
+    "slug": "beta-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 315,
+    "timeDay": 315,
+    "timeWeek": 315,
+    "timeMonth": 315,
+    "timeYear": 315,
+    "dailyMinutesDown": {}
+  }
+]
