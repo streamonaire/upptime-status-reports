@@ -22,19 +22,19 @@
     "url": "https://beta.streamonaire.com",
     "icon": "https://icons.duckduckgo.com/ip3/beta.streamonaire.com.ico",
     "slug": "beta-site",
-    "status": "degraded",
-    "uptime": "73.45%",
-    "uptimeDay": "73.45%",
-    "uptimeWeek": "73.45%",
-    "uptimeMonth": "73.45%",
-    "uptimeYear": "73.45%",
-    "time": 5833,
-    "timeDay": 5833,
-    "timeWeek": 5833,
-    "timeMonth": 5833,
-    "timeYear": 5833,
+    "status": "up",
+    "uptime": "68.23%",
+    "uptimeDay": "68.23%",
+    "uptimeWeek": "68.23%",
+    "uptimeMonth": "68.23%",
+    "uptimeYear": "68.23%",
+    "time": 4916,
+    "timeDay": 4916,
+    "timeWeek": 4916,
+    "timeMonth": 4916,
+    "timeYear": 4916,
     "dailyMinutesDown": {
-      "2023-03-22": 45
+      "2023-03-22": 57
     }
   }
 ]
