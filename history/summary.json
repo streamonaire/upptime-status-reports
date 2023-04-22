@@ -4,10 +4,10 @@
     "url": "https://streamonaire.com",
     "icon": "https://icons.duckduckgo.com/ip3/streamonaire.com.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
@@ -15,7 +15,9 @@
     "timeWeek": 213,
     "timeMonth": 228,
     "timeYear": 228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-22": 2
+    }
   },
   {
     "name": "Beta Site",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.streamonaire.com.ico",
     "slug": "beta-site",
     "status": "down",
-    "uptime": "98.03%",
-    "uptimeDay": "43.84%",
-    "uptimeWeek": "91.98%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "98.03%",
+    "uptime": "97.98%",
+    "uptimeDay": "42.41%",
+    "uptimeWeek": "91.77%",
+    "uptimeMonth": "97.98%",
+    "uptimeYear": "97.98%",
     "time": 1331,
     "timeDay": 3197,
     "timeWeek": 1687,
     "timeMonth": 1331,
     "timeYear": 1331,
     "dailyMinutesDown": {
-      "2023-04-22": 459,
+      "2023-04-22": 480,
       "2023-04-21": 350,
       "2023-03-22": 57
     }
