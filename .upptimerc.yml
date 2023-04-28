@@ -27,9 +27,11 @@ status-website:
       href: https://streamonaire.com
     - title: Beta
       href: https://beta.streamonaire.com
+    - title: Docs
+      href: https://docs.streamonaire.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: This page is entirely [open source]($REPO), powered by [Upptime](https://upptime.js.org)
