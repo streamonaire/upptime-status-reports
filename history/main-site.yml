@@ -1,7 +1,7 @@
 url: https://streamonaire.com
-status: degraded
-code: 502
-responseTime: 18721
-lastUpdated: 2023-06-03T22:58:29.354Z
+status: up
+code: 200
+responseTime: 715
+lastUpdated: 2023-06-03T23:07:58.712Z
 startTime: Wed Mar 22 2023 19:09:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
