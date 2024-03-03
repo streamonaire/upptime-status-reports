@@ -1,7 +1,7 @@
 url: https://beta.streamonaire.com
-status: down
+status: degraded
 code: 526
-responseTime: 255
-lastUpdated: 2024-03-02T23:08:38.628Z
+responseTime: 4061
+lastUpdated: 2024-03-03T04:36:17.578Z
 startTime: 2023-03-22T19:09:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
