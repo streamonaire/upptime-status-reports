@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/streamonaire.com.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "92.06%",
+    "uptime": "92.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.97%",
-    "time": 1018,
-    "timeDay": 268,
-    "timeWeek": 234,
-    "timeMonth": 243,
-    "timeYear": 929,
+    "uptimeYear": "92.23%",
+    "time": 1064,
+    "timeDay": 324,
+    "timeWeek": 241,
+    "timeMonth": 247,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2024-03-13": 15,
       "2023-10-04": 31,
@@ -49,8 +49,7 @@
       "2023-05-16": 1168,
       "2023-05-15": 54,
       "2023-05-13": 1433,
-      "2023-05-12": 805,
-      "2023-05-10": 34
+      "2023-05-12": 805
     }
   },
   {
@@ -59,18 +58,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.streamonaire.com.ico",
     "slug": "beta-site",
     "status": "down",
-    "uptime": "27.80%",
+    "uptime": "27.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.99%",
+    "uptimeYear": "18.71%",
     "time": 1456,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 398,
-    "timeYear": 1426,
+    "timeMonth": 409,
+    "timeYear": 1417,
     "dailyMinutesDown": {
-      "2024-05-08": 48,
+      "2024-05-09": 58,
+      "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
@@ -371,8 +371,7 @@
       "2023-07-03": 17,
       "2023-06-22": 44,
       "2023-06-21": 42,
-      "2023-05-15": 54,
-      "2023-05-10": 17
+      "2023-05-15": 54
     }
   }
 ]
