@@ -25,7 +25,7 @@
     "url": "https://beta.streamonaire.com",
     "icon": "https://icons.duckduckgo.com/ip3/beta.streamonaire.com.ico",
     "slug": "beta-site",
-    "status": "degraded",
+    "status": "down",
     "uptime": "23.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -37,7 +37,7 @@
     "timeMonth": 4656,
     "timeYear": 1710,
     "dailyMinutesDown": {
-      "2024-07-12": 694,
+      "2024-07-12": 704,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
