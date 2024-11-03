@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-11-02": 1431,
+      "2024-11-03": 0,
+      "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
@@ -82,19 +83,20 @@
     "url": "https://beta.streamonaire.com",
     "icon": "https://icons.duckduckgo.com/ip3/beta.streamonaire.com.ico",
     "slug": "beta-site",
-    "status": "degraded",
+    "status": "down",
     "uptime": "19.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 3696,
-    "timeDay": 2773,
-    "timeWeek": 1219,
-    "timeMonth": 6844,
-    "timeYear": 3935,
+    "timeDay": 1899,
+    "timeWeek": 1137,
+    "timeMonth": 6676,
+    "timeYear": 3918,
     "dailyMinutesDown": {
-      "2024-11-02": 1431,
+      "2024-11-03": 0,
+      "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
@@ -457,8 +459,7 @@
       "2023-11-08": 1440,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
-      "2023-11-05": 1440,
-      "2023-11-04": 1440
+      "2023-11-05": 1440
     }
   }
 ]
