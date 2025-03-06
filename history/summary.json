@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-03-06": 1372,
+      "2025-03-06": 1388,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
@@ -206,7 +206,7 @@
     "url": "https://beta.streamonaire.com",
     "icon": "https://icons.duckduckgo.com/ip3/beta.streamonaire.com.ico",
     "slug": "beta-site",
-    "status": "degraded",
+    "status": "down",
     "uptime": "16.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -218,7 +218,7 @@
     "timeMonth": 15029,
     "timeYear": 9399,
     "dailyMinutesDown": {
-      "2025-03-06": 1372,
+      "2025-03-06": 1388,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
