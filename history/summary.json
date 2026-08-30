@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/streamonaire.com.ico",
     "slug": "main-site",
     "status": "degraded",
-    "uptime": "60.61%",
-    "uptimeDay": "54.11%",
-    "uptimeWeek": "93.44%",
-    "uptimeMonth": "81.33%",
+    "uptime": "60.60%",
+    "uptimeDay": "35.44%",
+    "uptimeWeek": "90.78%",
+    "uptimeMonth": "80.71%",
     "uptimeYear": "69.61%",
     "time": 373,
     "timeDay": 1165,
@@ -134,7 +134,7 @@
       "2026-08-11": 923,
       "2026-08-17": 236,
       "2026-08-18": 282,
-      "2026-08-30": 661
+      "2026-08-30": 930
     }
   },
   {
@@ -142,12 +142,12 @@
     "url": "https://beta.streamonaire.com",
     "icon": "https://icons.duckduckgo.com/ip3/beta.streamonaire.com.ico",
     "slug": "beta-site",
-    "status": "degraded",
-    "uptime": "17.09%",
-    "uptimeDay": "77.14%",
-    "uptimeWeek": "96.73%",
+    "status": "down",
+    "uptime": "17.08%",
+    "uptimeDay": "58.46%",
+    "uptimeWeek": "94.07%",
     "uptimeMonth": "37.98%",
-    "uptimeYear": "7.85%",
+    "uptimeYear": "7.80%",
     "time": 7727,
     "timeDay": 3062,
     "timeWeek": 1145,
@@ -492,7 +492,7 @@
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2026-08-18": 282,
-      "2026-08-30": 329
+      "2026-08-30": 598
     }
   }
 ]
