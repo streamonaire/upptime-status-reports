@@ -6,12 +6,12 @@
     "slug": "main-site",
     "status": "degraded",
     "uptime": "60.58%",
-    "uptimeDay": "1.14%",
-    "uptimeWeek": "85.88%",
-    "uptimeMonth": "79.59%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "84.27%",
+    "uptimeMonth": "79.22%",
     "uptimeYear": "69.61%",
     "time": 391,
-    "timeDay": 3595,
+    "timeDay": 5384,
     "timeWeek": 1318,
     "timeMonth": 584,
     "timeYear": 374,
@@ -133,7 +133,7 @@
       "2026-08-11": 923,
       "2026-08-17": 236,
       "2026-08-18": 282,
-      "2026-08-31": 62,
+      "2026-08-31": 224,
       "2026-08-30": 1361
     }
   },
@@ -144,10 +144,10 @@
     "slug": "beta-site",
     "status": "degraded",
     "uptime": "17.08%",
-    "uptimeDay": "24.17%",
-    "uptimeWeek": "89.17%",
+    "uptimeDay": "12.94%",
+    "uptimeWeek": "87.56%",
     "uptimeMonth": "37.98%",
-    "uptimeYear": "7.71%",
+    "uptimeYear": "7.68%",
     "time": 7656,
     "timeDay": 2871,
     "timeWeek": 1480,
@@ -492,7 +492,7 @@
       "2025-11-14": 1440,
       "2025-11-13": 1440,
       "2026-08-18": 282,
-      "2026-08-31": 62,
+      "2026-08-31": 224,
       "2026-08-30": 1030
     }
   }
