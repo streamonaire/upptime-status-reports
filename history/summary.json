@@ -4,17 +4,17 @@
     "url": "https://streamonaire.com",
     "icon": "https://icons.duckduckgo.com/ip3/streamonaire.com.ico",
     "slug": "main-site",
-    "status": "up",
-    "uptime": "60.51%",
-    "uptimeDay": "0.01%",
+    "status": "degraded",
+    "uptime": "60.53%",
+    "uptimeDay": "55.90%",
     "uptimeWeek": "65.03%",
     "uptimeMonth": "74.79%",
-    "uptimeYear": "69.61%",
-    "time": 401,
-    "timeDay": 1870,
-    "timeWeek": 1533,
-    "timeMonth": 655,
-    "timeYear": 385,
+    "uptimeYear": "69.76%",
+    "time": 436,
+    "timeDay": 3623,
+    "timeWeek": 2395,
+    "timeMonth": 877,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2025-10-21": 1049,
       "2025-10-20": 1440,
@@ -65,7 +65,6 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440,
       "2025-11-24": 20,
       "2025-12-04": 601,
       "2026-02-02": 1074,
@@ -134,7 +133,8 @@
       "2026-08-18": 282,
       "2026-09-01": 723,
       "2026-08-31": 1440,
-      "2026-08-30": 1361
+      "2026-08-30": 1361,
+      "2026-09-02": 0
     }
   },
   {
@@ -142,17 +142,17 @@
     "url": "https://beta.streamonaire.com",
     "icon": "https://icons.duckduckgo.com/ip3/beta.streamonaire.com.ico",
     "slug": "beta-site",
-    "status": "up",
-    "uptime": "17.06%",
-    "uptimeDay": "0.01%",
+    "status": "degraded",
+    "uptime": "17.10%",
+    "uptimeDay": "55.93%",
     "uptimeWeek": "68.32%",
-    "uptimeMonth": "37.98%",
+    "uptimeMonth": "39.81%",
     "uptimeYear": "7.31%",
-    "time": 7615,
-    "timeDay": 1578,
-    "timeWeek": 1590,
-    "timeMonth": 4217,
-    "timeYear": 7828,
+    "time": 7576,
+    "timeDay": 1900,
+    "timeWeek": 1786,
+    "timeMonth": 3998,
+    "timeYear": 7820,
     "dailyMinutesDown": {
       "2025-10-05": 1340,
       "2025-10-04": 1440,
@@ -494,7 +494,8 @@
       "2026-08-18": 282,
       "2026-09-01": 723,
       "2026-08-31": 1440,
-      "2026-08-30": 1030
+      "2026-08-30": 1030,
+      "2026-09-02": 0
     }
   }
 ]
