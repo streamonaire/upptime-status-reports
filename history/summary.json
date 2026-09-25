@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/streamonaire.com.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "60.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.28%",
+    "uptime": "60.88%",
+    "uptimeDay": "47.67%",
+    "uptimeWeek": "92.52%",
+    "uptimeMonth": "76.56%",
     "uptimeYear": "74.80%",
     "time": 520,
-    "timeDay": 530,
-    "timeWeek": 514,
-    "timeMonth": 1574,
+    "timeDay": 0,
+    "timeWeek": 506,
+    "timeMonth": 1601,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2025-10-21": 1049,
@@ -42,7 +42,6 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
       "2025-11-24": 20,
       "2025-12-04": 601,
       "2026-02-02": 1074,
@@ -120,7 +119,8 @@
       "2026-09-13": 856,
       "2026-09-14": 1131,
       "2026-09-15": 289,
-      "2026-09-24": 1
+      "2026-09-25": 210,
+      "2026-09-24": 543
     }
   },
   {
@@ -129,16 +129,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.streamonaire.com.ico",
     "slug": "beta-site",
     "status": "down",
-    "uptime": "18.24%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.46%",
+    "uptime": "18.23%",
+    "uptimeDay": "47.69%",
+    "uptimeWeek": "92.53%",
+    "uptimeMonth": "77.74%",
     "uptimeYear": "8.68%",
-    "time": 6830,
-    "timeDay": 581,
-    "timeWeek": 539,
-    "timeMonth": 1523,
-    "timeYear": 7382,
+    "time": 6808,
+    "timeDay": 0,
+    "timeWeek": 540,
+    "timeMonth": 1548,
+    "timeYear": 7357,
     "dailyMinutesDown": {
       "2025-10-05": 1340,
       "2025-10-04": 1440,
@@ -150,7 +150,6 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
       "2025-11-12": 885,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
@@ -479,7 +478,8 @@
       "2026-09-13": 855,
       "2026-09-14": 1131,
       "2026-09-15": 288,
-      "2026-09-24": 0
+      "2026-09-25": 211,
+      "2026-09-24": 543
     }
   }
 ]
